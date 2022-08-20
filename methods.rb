@@ -21,7 +21,7 @@ def add(num1, num2)
    return num1 + num2
 end
 sum = add(2,5)
-puts sum
+puts sum  
 
 #  If the method is called with an argument that isn't a number, it should return null:
 #   const result = halve("two")
